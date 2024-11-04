@@ -1,8 +1,10 @@
 cff-version: 1.2.0
-message: 
+message: "If you use this software, please cite it as below."
 authors:
-authors:
-  - family-names: 
-    given-names: pvr99
+- family-names:
+  given-names: pvr99
+  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Hewer's Algorithm for LQR"
+version: 2.0.4
 date-released: 2024-11-04
+url: "https://github.com/pdvr99/HewersAlgorithm"
